@@ -1,8 +1,8 @@
 # The Simpsons - Corrida em Springfield
 
 ## Desenvolvedores
-* **Alan José Brusque** — RA: [INSIRA SEU RA AQUI]
-* **[Nome Completo do Colega da Dupla]** — RA: [INSIRA O RA DO COLEGA AQUI]
+* **Alan José Brusque** — RA: 1140257
+* **Pedro Henrique Grando Godois** — RA: 1140195
 
 ---
 
